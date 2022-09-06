@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lalosprunk a mexican data analyst, I'll be uploading all my projects, 
+- 👋 Hi, I’m @lalosprunk a mexican data analyst, I'll be uploading here all my projects, 
 - for future stakeholders and employees to review so that you can see my workflow and thought process!
 - 👀 As a data analyst and an Enviromental Systems Engieneer I'm interested in all projects that ask the right question
 - for enviromental purposes (especially the air and energy segments!). 
